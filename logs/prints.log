@@ -1,0 +1,6 @@
+11:16:56.525 [main] INFO  Testframework.Restassured.twitter - [1379285388183805955]
+11:16:56.542 [main] INFO  Testframework.Restassured.twitter - [This is my message through api]
+11:18:47.841 [main] INFO  Testframework.Restassured.twitter - [1380034864712278019]
+11:18:47.859 [main] INFO  Testframework.Restassured.twitter - [Iam learning APItesting using Restassured  #Qualitest24]
+11:20:25.350 [main] INFO  Testframework.Restassured.twitter - [1380035273308786690]
+11:20:25.368 [main] INFO  Testframework.Restassured.twitter - [Iam learning APItesting using Restassured  #Qualitest]
